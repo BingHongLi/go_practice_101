@@ -1,0 +1,21 @@
+# 展示Go 基本常用的案例
+變化案例很多，但在此僅挑一種使用。
+每一個檔案均為可獨立執行的檔案
+
+## 變數宣告與使用
+step01_variable_intro_app
+
+## 控制邏輯的基本語法展示
+step02_controll_flow_intro_app
+
+## 資料集合的介紹
+step03_collection_intro_app
+
+## 錯誤處理
+step04_error_handling_intro_app
+
+## 檔案處理與Json
+step05_file_json_intro_app
+
+## Web server
+step06_echo_html_server
