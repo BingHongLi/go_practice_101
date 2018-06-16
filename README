@@ -1,21 +1,20 @@
-# 展示Go 基本常用的案例
-變化案例很多，但在此僅挑一種使用。
-每一個檔案均為可獨立執行的檔案
+每個物件都有它的核心思想
 
-## 變數宣告與使用
-step01_variable_intro_app
+包括程式語言
 
-## 控制邏輯的基本語法展示
-step02_controll_flow_intro_app
+因為那些核心思想，所以他們在外人眼中顯得有所差異。
 
-## 資料集合的介紹
-step03_collection_intro_app
+他們可以是同一種人，也可以不是同一種人，
 
-## 錯誤處理
-step04_error_handling_intro_app
+若我們看那些共同特徵，眼耳鼻舌身，那人與人之間不復差異，而百分之八十的場景，都能透過這些共同特徵來完成
 
-## 檔案處理與Json
-step05_file_json_intro_app
+程式語言亦如是。
 
-## Web server
-step06_echo_html_server
+這個Go語言教學是基於這個思想誕生的
+
+Step1 變數創建宣告
+Step2 控制流程介紹（if..else）
+Step3 集合使用介紹
+Step4 錯誤處理
+Step5 Struct使用介紹（暫時假想成類似OOP的Class）
+Step6 檔案與Json的常見處理情境
